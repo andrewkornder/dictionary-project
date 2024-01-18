@@ -1,0 +1,91 @@
+{
+    "name": "The Online Plain Text English Dictionary",
+    "source": "https://raw.githubusercontent.com/eddydn/DictionaryDatabase/master/EDMTDictionary.json",
+    "headwords": 110474,
+    "definitions": 176064,
+    "most_defns": [
+        [
+            "line",
+            44
+        ],
+        [
+            "strike",
+            44
+        ],
+        [
+            "air",
+            46
+        ],
+        [
+            "round",
+            46
+        ],
+        [
+            "cast",
+            47
+        ],
+        [
+            "light",
+            47
+        ],
+        [
+            "set",
+            59
+        ],
+        [
+            "run",
+            72
+        ],
+        [
+            "water",
+            269
+        ],
+        [
+            "sea",
+            277
+        ]
+    ],
+    "average_words_per_defn": 17.84866122345529,
+    "most_words_in_defn": [
+        [
+            "round",
+            759
+        ],
+        [
+            "air",
+            803
+        ],
+        [
+            "pass",
+            824
+        ],
+        [
+            "point",
+            857
+        ],
+        [
+            "a",
+            865
+        ],
+        [
+            "turn",
+            957
+        ],
+        [
+            "set",
+            1059
+        ],
+        [
+            "run",
+            1232
+        ],
+        [
+            "sea",
+            2797
+        ],
+        [
+            "water",
+            3691
+        ]
+    ]
+}

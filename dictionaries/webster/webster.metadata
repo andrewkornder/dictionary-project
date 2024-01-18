@@ -1,0 +1,91 @@
+{
+    "name": "Webster's English Dictionary",
+    "source": "https://raw.githubusercontent.com/matthewreagan/WebstersEnglishDictionary/master/dictionary_compact.json",
+    "headwords": 102217,
+    "definitions": 164023,
+    "most_defns": [
+        [
+            "lay",
+            67
+        ],
+        [
+            "break",
+            68
+        ],
+        [
+            "come",
+            88
+        ],
+        [
+            "fall",
+            89
+        ],
+        [
+            "take",
+            93
+        ],
+        [
+            "turn",
+            96
+        ],
+        [
+            "put",
+            97
+        ],
+        [
+            "go",
+            101
+        ],
+        [
+            "run",
+            112
+        ],
+        [
+            "set",
+            124
+        ]
+    ],
+    "average_words_per_defn": 34.067630628956046,
+    "most_words_in_defn": [
+        [
+            "ground",
+            2070
+        ],
+        [
+            "go",
+            2086
+        ],
+        [
+            "fall",
+            2094
+        ],
+        [
+            "hand",
+            2166
+        ],
+        [
+            "put",
+            2173
+        ],
+        [
+            "white",
+            2389
+        ],
+        [
+            "take",
+            2550
+        ],
+        [
+            "run",
+            2810
+        ],
+        [
+            "turn",
+            2834
+        ],
+        [
+            "set",
+            3313
+        ]
+    ]
+}
