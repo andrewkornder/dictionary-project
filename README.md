@@ -1,1 +1,1 @@
-# dictionary-project
+code is readable; read it
